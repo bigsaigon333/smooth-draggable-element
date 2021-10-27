@@ -1,0 +1,12 @@
+.target {
+  width: 15rem;
+  height: 15rem;
+  background-color: aquamarine;
+  cursor: pointer;
+}
+
+.draggable {
+  z-index: 1000;
+  position: absolute;
+  will-change: transform;
+}
