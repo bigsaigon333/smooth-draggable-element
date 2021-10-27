@@ -1,8 +1,8 @@
 {
-  "name": "vanilla-js-template",
+  "name": "smooth-draggable-element",
   "version": "0.0.1",
   "main": "index.js",
-  "repository": "https://github.com/bigsaigon333/vanilla-js-template.git",
+  "repository": "https://github.com/bigsaigon333/smooth-draggable-element.git",
   "author": {
     "name": "Danny Kim",
     "email": "likepeppermint@gmail.com",
